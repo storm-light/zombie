@@ -1,0 +1,4 @@
+- when player joins after game has started, update all other players lobby (to include newly added player)?
+- or decline player who tries to join late
+
+- identify player's name on their screen
